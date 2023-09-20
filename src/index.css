@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nav a.active{
+    text-decoration: underline;
+    background-color: rgb(210, 213, 216);
+}
